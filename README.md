@@ -3,7 +3,7 @@ A scrip that will disconnect and reconnect your selected device or port.
 
 I use it to disable and re-enable a Titan Ridge thunderbolt PCIE card as it does not play well with my motherboard. So it does not make a correct connection with a device if i plug it in. Usually a restart would fix it but with this script, no restart is needed.
 
-Warning: This is similar to pulling the cable from the system, so if any data storage devices are properly connected to the OS and not properly ejected beforehand. Data loss may accur. 
+Warning: This is similar to pulling the cable from the system, so if any data storage devices are properly connected to the OS (and are affected by this script) and not properly ejected beforehand. Data loss may accur. 
 
 
 Instructions:
